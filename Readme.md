@@ -4,6 +4,9 @@
 
 여행객의 특성(연령대, 성별, 동반자 수, 체류기간)과 지역 정보를 바탕으로 **방문객 1인당 소비금액**을 예측하는 머신러닝 모델을 개발하는 프로젝트입니다.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Brick719/datascience/blob/master/tourism_spending_analysis.ipynb)
+
+
 ### 주요 목표
 - 여행객 데이터 탐색적 분석 (EDA)
 - 소비금액에 영향을 미치는 주요 요인 파악
